@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @saisrijena
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Hi there 👋, My Name is Sri Sairam Jena
+#### I'm a Business Analysts 
+![I'm a Business Analysts ](https://media.licdn.com/dms/image/v2/D5616AQENSv2XPc7O9A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731849764783?e=1738800000&v=beta&t=Wr_wqRdCgaa_OxkFatyh_K9loddeLAaNOKRE9kYrh-0)
 
-<!---
-saisrijena/saisrijena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Skills: MS OFFICES ECT
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
